@@ -3,17 +3,17 @@
 # Halo! 👋 Saya [Muhammad Fitrah Ramadhan]
 
 ## Tentang Saya
-- 🌱 Saat ini saya adalah lulusan SMK dengan minat di bidang Teknik Komputer dan Jaringan (TKJ).
-- 👨‍💻 Saya sedang belajar tentang monitoring server dengan Zabbix dan administrasi sistem.
-- 📚 Sedang magang di PT Mahardika Teknotama Integrasi (MTI) sebagai Network Engineer.
-- ⚡ Fun fact: Saya suka belajar hal baru dan berusaha menjadi lebih baik setiap hari!
+- Saat ini saya adalah lulusan SMK dengan minat di bidang Teknik Komputer dan Jaringan (TKJ).
+- Saya sedang belajar tentang monitoring server dengan Zabbix dan administrasi sistem.
+- Sedang magang di PT Mahardika Teknotama Integrasi (MTI) sebagai Network Engineer.
+- Fun fact: Saya suka belajar hal baru dan berusaha menjadi lebih baik setiap hari!
 
 ## Keahlian
-- 💻 Monitoring Server dengan Zabbix
-- ⚡ Mikrotik (Konfigurasi VLAN, Routing, Firewall)
-- 🌐 Dasar-dasar Jaringan Komputer
+- Monitoring Server dengan Zabbix
+- Mikrotik (Konfigurasi VLAN, Routing, Firewall)
+- Dasar-dasar Jaringan Komputer
 
-## 🚀 Tujuan Saya
+## Tujuan Saya
 - Mengembangkan keterampilan dalam monitoring server, administrasi sistem, dan manajemen jaringan.
 - Meningkatkan pemahaman tentang Zabbix, Mikrotik, serta alat monitoring lainnya.
 - Memperdalam keahlian dalam konfigurasi Mikrotik, termasuk VLAN, routing, dan firewall.
