@@ -1,23 +1,24 @@
 # Portofolio
 
-# Halo! 👋 Saya [Nama Kamu]
+# Halo! 👋 Saya [Muhammad Fitrah Ramadhan]
 
 ## Tentang Saya
-- 🌱 Saat ini saya adalah siswa SMK dengan minat di bidang Teknik Komputer dan Jaringan (TKJ).
-- 👨‍💻 Saya sedang belajar tentang monitoring server dengan Zabbix, administrasi sistem, dan bisnis online.
+- 🌱 Saat ini saya adalah lulusan SMK dengan minat di bidang Teknik Komputer dan Jaringan (TKJ).
+- 👨‍💻 Saya sedang belajar tentang monitoring server dengan Zabbix dan administrasi sistem.
 - 📚 Sedang magang di PT Mahardika Teknotama Integrasi (MTI) sebagai Network Engineer.
-- ⚡ Fun fact: Saya seorang ayah dari tiga anak!
+- ⚡ Fun fact: Saya suka belajar hal baru dan berusaha menjadi lebih baik setiap hari!
 
 ## Keahlian
 - 💻 Monitoring Server dengan Zabbix
-- ⚡ Manajemen Server (Debian, AlmaLinux)
+- ⚡ Mikrotik (Konfigurasi VLAN, Routing, Firewall)
 - 🌐 Dasar-dasar Jaringan Komputer
-- 📈 Bisnis Online (Dropshipping di Shopee)
 
 ## 🚀 Tujuan Saya
-- Meningkatkan keterampilan teknis dalam administrasi sistem dan monitoring server.
-- Membentuk badan dan membakar lemak dengan jadwal olahraga rutin.
+- Mengembangkan keterampilan dalam monitoring server, administrasi sistem, dan manajemen jaringan.
+- Meningkatkan pemahaman tentang Zabbix, Mikrotik, serta alat monitoring lainnya.
+- Memperdalam keahlian dalam konfigurasi Mikrotik, termasuk VLAN, routing, dan firewall.
+- Mengembangkan karier di bidang Teknologi Informasi, khususnya dalam network engineering dan manajemen server.
 
 ## Hubungi Saya
-- 📧 Email: [Email Kamu]
-- 🌐 LinkedIn: [Link Profil LinkedIn Kamu, jika ada]
+- 📧 Email: [muhammadfitrah0000@gmail.com]
+- 🌐 LinkedIn: [www.linkedin.com/in/muhammad-fitrah-ramadhan-967248364]
